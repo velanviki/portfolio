@@ -1,0 +1,64 @@
+
+
+/* .home__bg{
+    background-image: url("C:/Users/velan/Downloads/image.jpg");
+    background-color: #0a0213d0;
+    background-position: 124%;
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position-y: top;
+    
+    
+
+} */
+
+/* li.nav__items{
+    font-size: 18px;
+    padding-bottom: 0px;
+    color: white;
+} */
+
+.home{
+    background-color:#301934 ;
+    height: 00%;
+    padding: 50px;
+}
+
+ img{
+     margin-top: 150px;
+     margin-left: 50px;
+   width: 400px;
+   height: 350px;
+    border-radius: 10px;
+    
+}
+
+.home__content{
+   margin-top: 150px;
+    margin-left: 60px;
+    padding: 50px 0px;
+    width: 100%;
+    
+}
+h1.home__text{
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 3px;
+    color: rgba(195, 195, 226, 0.75)!important;
+}
+h2.home__text{
+    font-size: 54px;
+    line-height: 54px;
+    font-weight: 100;
+    font-family:cursive;
+}
+h3.home__text{
+    font-size: 34px;
+    font-weight: 200;
+    font-family:monospace;
+  
+    line-height: 50px;
+  
+    
+   
+}

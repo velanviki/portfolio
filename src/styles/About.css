@@ -1,0 +1,62 @@
+.about{
+    background:  #301934;
+}
+h1.about__heading{
+    margin-bottom: 35px;
+    font-weight: 100;
+    text-align: start;
+    font-family:sans-serif;
+    font-size: 60px;
+}
+button.about.btn.pointer {
+    text-transform: capitalize;
+    width: 195px;
+    height: 55px;
+    font-size: 18px;
+    transition: .4s ease;
+}
+.about__button{
+    padding: 20px 0px;
+}
+h1.about__skills{
+    margin-bottom: 10px;
+    font-weight: 100;
+    text-align: start;
+    font-family:sans-serif;
+    font-size: 60px;
+}
+.progress{
+    margin-bottom: 20px; 
+    
+}
+
+h4.title{
+    margin-top:10px ;
+}
+
+img.titles{
+    margin-top: 5px;
+    margin-left: 110px;
+    width: 100px;
+    height:60px
+
+}
+img.titless{
+    margin-top: 5px;
+    margin-left: 145px;
+    width: 70px;
+    height:45px  
+}
+img.titlesss{
+    margin-top: 5px;
+    margin-left: 70px;
+    width: 90px;
+    height:55px  
+}
+
+img.mern{
+    margin-top: 5px;
+    margin-left: 50px;
+    width: 250px;
+    height:55px 
+}

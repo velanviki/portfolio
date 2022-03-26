@@ -1,0 +1,19 @@
+.footer{
+    background-image: linear-gradient(to top, #f3f1f5, #d4c1f1, #c3a7f0, #b18deb, #a380dd, #955bf3, #8560c2, #8560c2, #8560c2, #8560c2, #8560c2, #7328ec);
+    opacity: 0.6;
+}
+
+.footer_name{
+  font-family: cursive;
+    letter-spacing: 2px;
+    font-weight: 500;
+    font-size: 20px;
+    color: rgb(58, 3, 58);
+}
+.card-text{
+    font-weight:lighter;
+}
+.text-muted{
+    
+    font-weight: bold;
+}
