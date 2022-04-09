@@ -8,6 +8,7 @@
     position: fixed;
     width: 100%;
     padding: 30px;
+    z-index: 999;
   }
   
   /* .Navbar > .nav-logo {

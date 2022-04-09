@@ -19,19 +19,20 @@ button.about.btn.pointer {
     padding: 20px 0px;
 }
 h1.about__skills{
-    margin-bottom: 10px;
+    text-align: center;
+    margin-top: -30px;
     font-weight: 100;
     text-align: start;
     font-family:sans-serif;
     font-size: 60px;
 }
 .progress{
-    margin-bottom: 20px; 
+    margin-bottom: 10px; 
     
 }
 
 h4.title{
-    margin-top:10px ;
+    margin-top:40px ;
 }
 
 img.titles{
@@ -59,8 +60,4 @@ img.mern{
     margin-left: 50px;
     width: 250px;
     height:55px 
-}
-
-.img{
-    margin-top: -120px;
 }

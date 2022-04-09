@@ -8,6 +8,7 @@ function Navbar() {
       <div className={`nav-items ${isOpen && "open"}`}>
         <a href="#home">Home</a>
         <a href="#about">About</a>
+        <a href="#skills">Skills</a>
         <a href="#resume">My Journey</a>
         <a href="#project">Project</a>
         <a href="#contact">Contact</a>

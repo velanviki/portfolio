@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/Home.css";
-import Image from "../Image/image.jpg";
+// import Image from "../Image/image.jpg";
 function Home() {
   return (
     <div className="home" id="home">
@@ -35,9 +35,9 @@ function Home() {
             <h2 className="home__text sweet pz__20">Full Stack Developer.</h2>
           </div>
         </div>
-        <div className="col__2">
+        {/* <div className="col__2">
           <img src={Image} alt="Image" />;
-        </div>
+        </div> */}
       </div>
       {/* </div> */}
     </div>
