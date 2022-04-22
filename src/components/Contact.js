@@ -35,10 +35,10 @@ function Contact() {
                 </div>
                 <h4 id="quote"> Love to hear from you !</h4>
                 <div className="column">
-                     <a href="#" alt =" " target="_blank" className="social_links_me" rel="noopener noreferrer"> <i class="fab fa-whatsapp"></i> </a> 
-                     <a  href="#" alt =" " target="_blank"  className="social_links_me" rel="noopener noreferrer">  <i class="fab fa-github"></i> </a>
-                      <a  href="#" alt =" " target="_blank"  className="social_links_me" rel="noopener noreferrer"> <i class="fab fa-linkedin"></i> </a> 
-
+                  <span></span>
+                     <a  href="https://github.com/velanviki" alt =" " target="_blank"  className="social_links_me" rel="noopener noreferrer">  <i class="fab fa-github"></i> </a>
+                  <span></span>
+                  <span></span>
                 </div>
             </div>
             

@@ -12,6 +12,7 @@ function Navbar() {
         <a href="#resume">My Journey</a>
         <a href="#project">Project</a>
         <a href="#contact">Contact</a>
+        <img className="suit" src="https://static.vecteezy.com/system/resources/thumbnails/000/356/792/small/Business__2848_29.jpg" alt="img"></img>
       </div>
       <div
         className={`nav-toggle ${isOpen && "open"}`}

@@ -10,6 +10,13 @@
     padding: 30px;
     z-index: 999;
   }
+
+  .suit{
+      width: 60px;
+      height: 60px;
+      margin-left: 600px;
+      margin-top: -10px;
+  }
   
   /* .Navbar > .nav-logo {
     font-weight: 700;

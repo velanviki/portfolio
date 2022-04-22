@@ -5,7 +5,7 @@ h1.about__heading{
     margin-bottom: 35px;
     font-weight: 100;
     text-align: start;
-    font-family:sans-serif;
+    font-family:"Nunito";
     font-size: 60px;
 }
 button.about.btn.pointer {
@@ -22,7 +22,7 @@ h1.about__skills{
     margin-bottom: 10px;
     font-weight: 100;
     text-align: start;
-    font-family:sans-serif;
+    font-family:"Nunito",sans-serif;
     font-size: 60px;
 }
 .progress{
