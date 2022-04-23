@@ -96,7 +96,7 @@ function About() {
               </p>
               
               <div className="about__button d__flex align__items__center">
-                <a target="_blank" href="https://drive.google.com/file/d/1cFeVBrN-O7O1tBM6WNAi66PfKo5yZL8_/view?usp=sharing">
+                <a target="_blank" href="https://drive.google.com/file/d/19y1O5Ol9PIsRPP0ViN_Xrko49DdnuLz0/view">
                   <button className="about btn pointer">Download CV</button>
                 </a>
                 <a href="#contact">
