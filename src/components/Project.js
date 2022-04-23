@@ -64,8 +64,8 @@ export default function Projects() {
                        <li className='li_tech_list list_top'> <i class="fas fa-angle-right left-arrow-heading" ></i> MongoDB </li>  
                        <li className='li_tech_list last_list_margin_bottom'><i class="fas fa-angle-right left-arrow-heading" ></i> NodeJs </li>
                    </ul>                   
-                    <a href="" class="cta" rel="noopener noreferrer" target="_blank"><p class="fas fa-code-branch liveDemo_Icon"></p> Demo</a>
-                    <a href="" class="cta" rel="noopener noreferrer" target="_blank"><i class="fab fa-github github_Icon"></i> GitHub</a>
+                    <a href="https://booksstores.netlify.app" class="cta" rel="noopener noreferrer" target="_blank"><p class="fas fa-code-branch liveDemo_Icon"></p> Demo</a>
+                    <a href="https://github.com/velanviki/Book-project" class="cta" rel="noopener noreferrer" target="_blank"><i class="fab fa-github github_Icon"></i> GitHub</a>
                 </div>
               <div class="col-left">
                 <div class="project-img"  data-aos="fade-in">
@@ -87,12 +87,12 @@ export default function Projects() {
                        <li className='li_tech_list list_top'> <i class="fas fa-angle-right left-arrow-heading" ></i> MongoDB </li>  
                        <li className='li_tech_list last_list_margin_bottom'><i class="fas fa-angle-right left-arrow-heading" ></i> NodeJs </li>
                    </ul>                   
-                    <a href="" class="cta" rel="noopener noreferrer" target="_blank"><p class="fas fa-code-branch liveDemo_Icon"></p> Demo</a>
-                    <a href="" class="cta" rel="noopener noreferrer" target="_blank"><i class="fab fa-github github_Icon"></i> GitHub</a>
+                    <a href="https://e-commerce-my.netlify.app/" class="cta" rel="noopener noreferrer" target="_blank"><p class="fas fa-code-branch liveDemo_Icon"></p> Demo</a>
+                    <a href="https://github.com/velanviki/Ecommerce-project`" class="cta" rel="noopener noreferrer" target="_blank"><i class="fab fa-github github_Icon"></i> GitHub</a>
                 </div>
               <div class="col-left">
                 <div class="project-img"  data-aos="fade-in">
-                <img src="https://tse2.mm.bing.net/th?id=OIP.fn99ZNAuTBrg7ahL8kvvUgHaEK&pid=Api&P=0&w=284&h=160" alt="img" />
+                <img src="https://imatrix.com/wp-content/uploads/sites/12/2021/03/ecommerce.jpg" alt="img" />
                 </div>
 
             </div>
