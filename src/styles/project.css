@@ -21,6 +21,7 @@
 #project .col-right .tech_list {
 	display: flex;
 	margin-top: 1.5rem;
+    font-size: 20px;
 }
 #project .col-right .tech_list .left-arrow-heading{
 	color: crimson;
@@ -73,22 +74,25 @@
     color: rgb(131, 124, 124);
 }
 #project .col-right .cta {
-    /* font-weight: 10px; */
-	/* color: black; */
-	padding: 20px;
-	font-size: 23px;
-    height: 50px;
-	border-radius: 10px;
+   
+	padding: 12px;
+	font-size: 18px;
+   
+	border-radius: 15px;
     text-align: center !important;
+    margin-right: 10px;
 }
+
+
 #project .col-right .cta .github_Icon , #project .col-right .cta .liveDemo_Icon{
 	color: rgb(163, 157, 157);
 	opacity: 0.7;
 }
 #project .col-right .liveDemo_Icon,
 #project .col-right .github_Icon{
-	padding: 5px 5px;
-    margin-right: 0.5rem;
+	padding: 5px;
+    /* margin-right: 0.2rem; */
+    
 }
 #project .col-left .project-img {
 	height: 100%;
@@ -119,31 +123,23 @@
 	z-index: -1; 
 	
 }
+
 a.cta{
-    /* border: 3px solid crimson;
-    
-    margin-right:  1rem !important;
-	transition: color .5s; */
+
     color: white !important;
     text-transform: capitalize;
-    width: 195px;
-    height: 
-    3
-    5px;
-    font-size: 10px;
+    width: 155px;
+    font-size: 50px;
     transition: .4s ease;
     background: #c4315f;
     font-family:sans-serif;
 }
 a.cta:hover{
-	/* color: #fff !important;
-	border: 3px solid #fff;
-    color: #fff !important;
-	transition: 0.5s;
-    box-shadow: 10px 10px 5px 0px rgba(182, 178, 178, 0.75);
-	opacity: 0.85; */
+
+	opacity: 0.85;
     background: #fff;
     color: #000!important;
+    
 }
 
 
@@ -159,7 +155,7 @@ button:hover {
   #des{
       font-size: 20px;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      color: #000;
+      color: rgb(146, 143, 143);
       
   }
 
@@ -178,6 +174,9 @@ button:hover {
 		flex-direction: row;
         text-align: right !important;
 		margin-top: 1rem;
+        
+     
+       
 	}
 	#project .col-left{
         margin-left: auto;
@@ -223,6 +222,8 @@ button:hover {
 	display: flex;
 	flex-direction: row;
 	margin-top: 1rem;
+   
+   
 	}
 }
 
@@ -261,14 +262,17 @@ button:hover {
 		display: flex;
 		flex-direction: row;
 		margin-top: 1rem;
+        
 	}
 	#project .col-right {
 		margin-top: 2rem;
+        padding: 20px;
 	}
 	#project .col-right .cta {
 		display: flex;
 		flex-direction: row;
 		margin-top: 1rem;
+       
 	}
 	
 } 
@@ -318,6 +322,7 @@ button:hover {
 		display: flex;
 		flex-direction: row;
         text-align: right !important;
+        
 	}
      
 }

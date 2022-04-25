@@ -22,8 +22,8 @@ function App() {
       <Home />
       <About/>
       <Skills/>
+      <Projects/>
       <Resume/> 
-      <Projects/> 
       <Contact/>
       </div> 
       <Footer/>
