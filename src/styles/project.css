@@ -1,6 +1,6 @@
 .project{
     
-    margin-top: 2rem;
+    margin-top: 1rem;
     display: grid;
     grid-template-columns: repeat(2,1fr);
     font-family: fantasy;
@@ -16,6 +16,7 @@
 #project .col-right {
 	width: 100%;
     margin-top: 1rem;
+   
 
 }
 #project .col-right .tech_list {
@@ -45,7 +46,7 @@
     font-weight: 100;
     text-transform: uppercase;
    
-    margin-top:40px ;
+    margin-top:80px ;
     padding-bottom: 0;
     color: white;
     
@@ -75,12 +76,12 @@
 }
 #project .col-right .cta {
    
-	padding: 12px;
+	padding: 6px 13px;
 	font-size: 18px;
-   
+    margin-left:60px;
 	border-radius: 15px;
     text-align: center !important;
-    margin-right: 10px;
+    
 }
 
 
@@ -91,7 +92,7 @@
 #project .col-right .liveDemo_Icon,
 #project .col-right .github_Icon{
 	padding: 5px;
-    /* margin-right: 0.2rem; */
+  
     
 }
 #project .col-left .project-img {
@@ -169,6 +170,7 @@ button:hover {
 	#project .col-left img:hover{
 		transform: none;
  	}
+
 	 #project .col-right .cta {
 		display: flex;
 		flex-direction: row;
@@ -194,6 +196,7 @@ button:hover {
  	}
 	 #project .col-right {
 		margin-top: 2rem;
+        
 	}
 	#project .col-left{
         margin-left: auto;
@@ -222,8 +225,13 @@ button:hover {
 	display: flex;
 	flex-direction: row;
 	margin-top: 1rem;
+    /* padding: 2px; */
    
    
+	}
+    #project .col-right {
+		margin-top: 2rem;
+        padding: 80px;
 	}
 }
 
@@ -266,14 +274,16 @@ button:hover {
 	}
 	#project .col-right {
 		margin-top: 2rem;
-        padding: 20px;
+        padding: 100px;
 	}
 	#project .col-right .cta {
 		display: flex;
 		flex-direction: row;
 		margin-top: 1rem;
+        padding: 5px;
        
 	}
+  
 	
 } 
 
@@ -322,6 +332,8 @@ button:hover {
 		display: flex;
 		flex-direction: row;
         text-align: right !important;
+        padding: 5px;
+ 
         
 	}
      

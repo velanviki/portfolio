@@ -21,7 +21,6 @@
         font-family:sans-serif;
       text-align: center;
       color:white !important;
-      /* background-image: linear-gradient(to right bottom, #0f0b1e, #17142b, #201938, #2b1f46, #372453) !important; */
       font-size: 60px;
       font-weight: 100;
       text-transform: uppercase;
@@ -44,7 +43,7 @@
       font-weight: 700;
       text-transform: uppercase;
       color: #c4315f;
-      /* margin-bottom: 10px; */
+
     }
     
     .resume .resume-item h5 {

@@ -1,23 +1,5 @@
 
 
-/* .home__bg{
-    background-image: url("C:/Users/velan/Downloads/image.jpg");
-    background-color: #0a0213d0;
-    background-position: 124%;
-    background-repeat: no-repeat;
-    background-size: 55%;
-    background-position-y: top;
-    
-    
-
-} */
-
-/* li.nav__items{
-    font-size: 18px;
-    padding-bottom: 0px;
-    color: white;
-} */
-
 .home{
     background-color:#301934 ;
     height: 00%;
@@ -59,6 +41,7 @@ h3.home__text{
   
     line-height: 50px;
   
-    
-   
 }
+
+
+
