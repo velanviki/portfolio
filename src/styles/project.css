@@ -15,9 +15,15 @@
  }
 #project .col-right {
 	width: 100%;
-    margin-top: 1rem;
+    margin-top: 4rem;
    
 
+}
+
+.desc{
+   
+    font-size: 20px;
+    margin-left: 50px;
 }
 #project .col-right .tech_list {
 	display: flex;
@@ -102,6 +108,7 @@
     margin-top: -110px;
 }
 #project .col-left img{
+    margin-top: 210px;
     height: 250px;
     width: 450px;
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);

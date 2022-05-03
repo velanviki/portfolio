@@ -9,7 +9,10 @@ export default function Projects() {
         <div class="project container " data-aos="fade-right">
           <div class="col-right">
             <h2> Wishes - MERN </h2>
-
+              <p className="desc">An online web application where you can create and add your wishes that can view to every users.Also you can 
+              edit and update your post at any time.
+                Build using MERN stack.
+              </p>
             <ul className="tech_list">
               <li className="li_tech_list list_top">
                 {" "}
@@ -53,7 +56,8 @@ export default function Projects() {
 
           <div class="col-right">
             <h2> Blog - MERN </h2>
-
+              <p className="desc">It is a Blog web application build using MERN where you can write your blog and post it.
+              Can also edit and update only by the authorized user</p>
             <ul className="tech_list">
               <li className="li_tech_list list_top">
                 {" "}
@@ -100,7 +104,7 @@ export default function Projects() {
 
           <div class="col-right">
             <h2> Book store - MERN </h2>
-
+              <p className="desc">This is a MERN Book store web application where you can store books to your profile and can view,edit and update the data at any time.</p>
             <ul className="tech_list">
               <li className="li_tech_list list_top">
                 {" "}
@@ -147,7 +151,7 @@ export default function Projects() {
 
           <div class="col-right">
             <h2> E-Commerce - MERN </h2>
-
+              <p className="desc">An E-commerce web application build using MERN stack.User can buy proudcts by adding the products to the cart section and do the payment process to complete shopping.</p>
             <ul className="tech_list">
               <li className="li_tech_list list_top">
                 {" "}
