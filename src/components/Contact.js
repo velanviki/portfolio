@@ -39,9 +39,9 @@ function Contact() {
             </div>
             <h4 id="quote"> Love to hear from you !</h4>
             <div className="column">
-              <span></span>
+              
               <a
-                href="https://github.com/velanviki"
+                href="https://github.com/velanviki/Readme"
                 alt=" "
                 target="_blank"
                 className="social_links_me"

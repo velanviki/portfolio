@@ -15,7 +15,7 @@
  }
 #project .col-right {
 	width: 100%;
-    margin-top: 4rem;
+    margin-top: 5.8rem;
    
 
 }
@@ -23,12 +23,14 @@
 .desc{
    
     font-size: 20px;
-    margin-left: 50px;
+    /* margin-left: 50px; */
+    text-align: start;
 }
 #project .col-right .tech_list {
 	display: flex;
 	margin-top: 1.5rem;
     font-size: 20px;
+    margin-left: -62px;
 }
 #project .col-right .tech_list .left-arrow-heading{
 	color: crimson;
@@ -59,7 +61,7 @@
 }
 .li_tech_list{
     color: rgb(163, 157, 157);
-	margin-left: 1rem;
+	margin-left: 2rem;
 	font-family: 'Merriweather', serif;
 	letter-spacing: 1.5px;
 	text-transform: none !important;
@@ -69,11 +71,12 @@
 	margin-bottom: 1rem;
 }
 #project .col-right h2 {
-    margin-bottom: 40px;
-	font-size: 50px;
+    text-align: start;
+    margin-bottom: 10px;
+	font-size: 40px;
 	font-weight: 500;
 	letter-spacing: 0.2rem;
-	margin-bottom: 15px;
+	
     color: rgb(212, 207, 207);
 }
 #project .col-right p {
@@ -82,25 +85,34 @@
 }
 #project .col-right .cta {
    
-	padding: 6px 13px;
-	font-size: 18px;
-    margin-left:60px;
+	padding: 6px 9px;
+	font-size: 16px;
+    margin-left:90px;
+ 
 	border-radius: 15px;
-    text-align: center !important;
+   
+    /* text-align: start !important; */
     
 }
 
 
-#project .col-right .cta .github_Icon , #project .col-right .cta .liveDemo_Icon{
+/* #project .col-right .cta .github_Icon , #project .col-right .cta .liveDemo_Icon{
 	color: rgb(163, 157, 157);
 	opacity: 0.7;
+} */
+/* #project .col-right .liveDemo_Icon, */
+#project .col-right #git{
+	padding: 10px;
+    /* margin-left: -20px; */
 }
-#project .col-right .liveDemo_Icon,
-#project .col-right .github_Icon{
-	padding: 5px;
+
+#project .col-right #Demo{
+	padding: 18px;
+    margin-left: -10px;
+}
   
     
-}
+
 #project .col-left .project-img {
 	height: 100%;
 	width: 100%;
@@ -136,11 +148,12 @@ a.cta{
 
     color: white !important;
     text-transform: capitalize;
-    width: 155px;
-    font-size: 50px;
     transition: .4s ease;
     background: #c4315f;
-    font-family:sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   
+  
+    
 }
 a.cta:hover{
 
@@ -160,12 +173,13 @@ button:hover {
       margin-bottom: 80px;
   }
 
-  #des{
-      font-size: 20px;
+  /* #des{
+      font-size: 50px;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      color: rgb(146, 143, 143);
+      color: rgb(125, 111, 111);
+      text-align: start;
       
-  }
+  } */
 
 
 
@@ -181,8 +195,10 @@ button:hover {
 	 #project .col-right .cta {
 		display: flex;
 		flex-direction: row;
-        text-align: right !important;
+        text-align: center !important;
 		margin-top: 1rem;
+        width: 110px;
+        height: 40px;
         
      
        
@@ -211,6 +227,7 @@ button:hover {
 		justify-items: center;
         justify-content: center;
         align-items: center;
+        width: 100px;
      }
 	#project .col-right h1,
 	#project .col-right h2{
@@ -233,6 +250,9 @@ button:hover {
 	flex-direction: row;
 	margin-top: 1rem;
     /* padding: 2px; */
+    width: 110px;
+    height: 40px;
+    
    
    
 	}
@@ -260,6 +280,7 @@ button:hover {
 	 #project .col-left{
         margin-left: auto;
         margin-right: auto;
+        
      }
 	 #project .col-left img{
 		height: 300px;
@@ -277,6 +298,8 @@ button:hover {
 		display: flex;
 		flex-direction: row;
 		margin-top: 1rem;
+        width: 110px;
+        height: 40px;
         
 	}
 	#project .col-right {
@@ -340,6 +363,9 @@ button:hover {
 		flex-direction: row;
         text-align: right !important;
         padding: 5px;
+        width: 110px;
+        height: 40px;
+        
  
         
 	}

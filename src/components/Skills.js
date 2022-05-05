@@ -9,11 +9,11 @@ export default function Skills() {
             <h1 className="about__skills">Skills</h1>
             <h4 className="title">
               HTML5
-              <img
+              {/* <img
                 className="titles"
                 src="https://res.cloudinary.com/dj0pjewbs/image/upload/v1625299529/5847f5bdcef1014c0b5e489c_mwgmv3.png"
                 alt="HTML 5"
-              />
+              /> */}
             </h4>
             <div class="progress">
               <div
@@ -24,11 +24,11 @@ export default function Skills() {
 
             <h4 className="title">
               CSS
-              <img
+              {/* <img
                 className="titless"
                 src="https://res.cloudinary.com/dj0pjewbs/image/upload/v1625299529/css_zszamh.png"
                 alt="CSS 3"
-              />
+              /> */}
             </h4>
             <div class="progress">
               <div
@@ -42,11 +42,11 @@ export default function Skills() {
 
             <h4 className="title">
               JAVASCRIPT
-              <img
+              {/* <img
                 className="titlesss"
                 src="https://res.cloudinary.com/dj0pjewbs/image/upload/v1625299530/JS_oehidy.png"
                 alt="JS"
-              />
+              /> */}
             </h4>
             <div class="progress">
               <div
@@ -60,10 +60,10 @@ export default function Skills() {
 
             <h4 className="title">
               MERN stack
-              <img
+              {/* <img
                 className="mern"
                 src="https://miro.medium.com/max/900/1*Dc5f6x9KxALujjUDzn7PWw.jpeg"
-              />
+              /> */}
             </h4>
             <div class="progress">
               <div
