@@ -66,3 +66,32 @@ img.mern{
 .img{
     margin-top: -120px;
 }
+
+@media only screen and (max-width: 425px){
+  
+    .img{
+        margin-top: -60px;
+        margin-left: -90px;
+        width: 80px;
+    }
+
+    button.about.btn.pointer {
+        text-transform: capitalize;
+        width: 195px;
+        height: 55px;
+        font-size: 18px;
+        transition: .4s ease;
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+@media (min-width: 425px) and (max-width: 993px){
+    .img{
+        margin-top: -60px;
+        margin-left: -130px;
+        width: 80px;
+    }
+
+   
+}

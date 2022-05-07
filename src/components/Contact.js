@@ -41,7 +41,7 @@ function Contact() {
             <div className="column">
               
               <a
-                href="https://github.com/velanviki/Readme"
+                href="https://github.com/velanviki"
                 alt=" "
                 target="_blank"
                 className="social_links_me"
