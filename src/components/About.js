@@ -1,18 +1,18 @@
 import React from "react";
 import "../styles/About.css";
-import Image from "../Image/image.jpg";
+// import Image from "../Image/image.jpg";
 function About() {
   return (
     <div className="about component__space" id="about">
       <div className="container">
         <div className="row">
-          <div className="col__2">
-            <div className="img">
+          {/* <div className="col__2"> */}
+            {/* <div className="img">
               <img src={Image} alt="Image" />;
-            </div>
-          </div>
+            </div> */}
+          {/* </div> */}
 
-          <div className="col__2">
+          <div className="col__1">
             <h1 className="about__heading">About Me</h1>
             <div className="about__meta">
               <p className="about__text p__color">
